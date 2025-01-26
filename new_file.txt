@@ -1,0 +1,5 @@
+this is the new file i added
+to check few git commands like
+
+git add .
+git commit -m "some message here"
